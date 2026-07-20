@@ -26,6 +26,7 @@ Solutions in Java/Kotlin
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Pragya274/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragya274/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -42,9 +43,14 @@ Solutions in Java/Kotlin
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Pragya274/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragya274/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragya274/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Pragya274/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
