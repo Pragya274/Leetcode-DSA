@@ -66,6 +66,7 @@ Solutions in Java/Kotlin
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Pragya274/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
