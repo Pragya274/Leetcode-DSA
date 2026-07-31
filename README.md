@@ -45,6 +45,7 @@ Solutions in Java/Kotlin
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pragya274/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pragya274/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragya274/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -69,13 +70,20 @@ Solutions in Java/Kotlin
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Pragya274/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
