@@ -7,10 +7,12 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Pragya274/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Pragya274/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Pragya274/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Pragya274/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -19,6 +21,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Pragya274/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Pragya274/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
