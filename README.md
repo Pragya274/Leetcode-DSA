@@ -26,6 +26,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Pragya274/Leetcode-DSA/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Solutions in Java/Kotlin
 | [0877-stone-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragya274/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
