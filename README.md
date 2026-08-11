@@ -37,6 +37,7 @@ Solutions in Java/Kotlin
 | [1260-shift-2d-grid](https://github.com/Pragya274/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pragya274/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Pragya274/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragya274/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -62,6 +63,7 @@ Solutions in Java/Kotlin
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pragya274/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pragya274/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Pragya274/Leetcode-DSA/tree/master/3731-find-missing-elements) |
@@ -108,6 +110,7 @@ Solutions in Java/Kotlin
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Pragya274/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
