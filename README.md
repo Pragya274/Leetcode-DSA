@@ -105,6 +105,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Pragya274/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pragya274/Leetcode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -221,4 +222,12 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pragya274/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
