@@ -30,6 +30,7 @@ Solutions in Java/Kotlin
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/Pragya274/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pragya274/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ Solutions in Java/Kotlin
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Pragya274/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pragya274/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
