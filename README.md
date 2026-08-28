@@ -27,6 +27,7 @@ Solutions in Java/Kotlin
 | ------- |
 | [1291-sequential-digits](https://github.com/Pragya274/Leetcode-DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pragya274/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pragya274/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pragya274/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pragya274/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ Solutions in Java/Kotlin
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pragya274/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pragya274/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
