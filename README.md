@@ -119,6 +119,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Pragya274/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
+| [0115-distinct-subsequences](https://github.com/Pragya274/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pragya274/Leetcode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -162,6 +163,7 @@ Solutions in Java/Kotlin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Pragya274/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Pragya274/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1140-stone-game-ii) |
