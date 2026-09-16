@@ -72,6 +72,7 @@ Solutions in Java/Kotlin
 | [1140-stone-game-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pragya274/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pragya274/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pragya274/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -182,6 +183,7 @@ Solutions in Java/Kotlin
 | [1140-stone-game-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pragya274/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pragya274/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pragya274/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pragya274/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pragya274/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -214,6 +216,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pragya274/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
@@ -259,6 +262,7 @@ Solutions in Java/Kotlin
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pragya274/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pragya274/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
