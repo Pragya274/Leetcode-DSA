@@ -137,6 +137,7 @@ Solutions in Java/Kotlin
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Pragya274/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Pragya274/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
@@ -192,6 +193,7 @@ Solutions in Java/Kotlin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Pragya274/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Pragya274/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/0877-stone-game) |
@@ -289,12 +291,14 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Linked List
 |  |
