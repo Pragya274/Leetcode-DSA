@@ -140,6 +140,7 @@ Solutions in Java/Kotlin
 | [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Pragya274/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pragya274/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -166,6 +167,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pragya274/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Pragya274/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/1927-sum-game) |
@@ -296,6 +298,7 @@ Solutions in Java/Kotlin
 | [0020-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pragya274/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
@@ -304,6 +307,7 @@ Solutions in Java/Kotlin
 | [0020-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pragya274/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pragya274/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Linked List
 |  |
