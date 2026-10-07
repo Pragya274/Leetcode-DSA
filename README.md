@@ -12,6 +12,7 @@ Solutions in Java/Kotlin
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pragya274/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Pragya274/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
@@ -139,6 +140,7 @@ Solutions in Java/Kotlin
 | [0020-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Pragya274/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pragya274/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -230,6 +232,7 @@ Solutions in Java/Kotlin
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Pragya274/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
