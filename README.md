@@ -177,6 +177,7 @@ Solutions in Java/Kotlin
 | [3498-reverse-degree-of-a-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pragya274/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pragya274/Leetcode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Pragya274/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting Sort
 |  |
 | ------- |
