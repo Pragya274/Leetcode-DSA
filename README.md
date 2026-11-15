@@ -52,6 +52,7 @@ Solutions in Java/Kotlin
 | [1406-stone-game-iii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pragya274/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2029-stone-game-ix](https://github.com/Pragya274/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragya274/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pragya274/Leetcode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -97,6 +98,7 @@ Solutions in Java/Kotlin
 | [1401-circle-and-rectangle-overlapping](https://github.com/Pragya274/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pragya274/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pragya274/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Pragya274/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pragya274/Leetcode-DSA/tree/master/2029-stone-game-ix) |
@@ -253,6 +255,7 @@ Solutions in Java/Kotlin
 | [1406-stone-game-iii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Pragya274/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pragya274/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pragya274/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pragya274/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -291,6 +294,7 @@ Solutions in Java/Kotlin
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragya274/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pragya274/Leetcode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/Pragya274/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
